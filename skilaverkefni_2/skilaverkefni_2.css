@@ -1,0 +1,115 @@
+
+.tab{
+    margin: 4%;
+}
+
+.kassigraenn{
+    border-style: solid;
+    border-color: green;
+    border-width: 2px;
+}
+.kassiraudur{
+    border-style: solid;
+    border-color: red;
+    border-width: 3px;
+    padding: 7%
+}
+
+.kassiblar{
+    border-style: dashed;
+    border-color: blue;
+    border-width: 3 px;
+    padding: 2%;
+}
+
+.bottomborder{
+    height:1px;
+    width: auto;
+    margin: auto;
+    background: gray; 
+    border-bottom:1px solid gray;
+}
+
+.listakassigraenn{
+    display:block;
+    padding: 1em;
+    margin: 1em;
+    border: 3px dashed green;
+}
+
+.listakassiblar li{
+    display: inline;
+    padding: 1em;
+    margin: 1em;
+    border: 3px dashed blue
+}
+
+.listakassiraudur li{
+    display: inline-block;
+    padding: 1em;
+    margin: 1em;
+    border: 3px dashed red
+}
+
+.lina li{
+    display: inline;
+    background: lime;
+    padding: 1em;
+    margin: 1em;
+    border: 3px dashed blue
+}
+
+.box{
+    border: 3px solid black
+}
+
+.stor{
+    float: left;
+    font-size: 40pt;
+}
+
+.imgwrap{
+    image-orientation: 
+}
+
+.wrap{
+    overflow-wrap: break-word;
+
+}
+
+.vinstri{
+    float: left;
+    width: 50%;
+}
+
+
+.imgr{
+    float: right;
+}
+
+.haegri{
+    float: left;
+    width: 100%;
+}
+
+.box1{
+    float: left;
+    width: 50;
+}
+
+
+*{
+    box-sizing: border-box;
+}
+.center{
+    justify-content: center;
+    align-items: center;
+
+}
+.baklitur_gulur{
+    display: flex;
+    flex: row;
+    color: rgb(238, 255, 0);
+    justify-content: center;
+    align-items: center;
+}
