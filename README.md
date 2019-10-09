@@ -1,8 +1,3 @@
-# Alexander-Mani.github.io
-
-
-
-
 
 <html>
     <head>
