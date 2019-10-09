@@ -2,7 +2,7 @@
 
 
 
-```html 
+
 <!doctype html>
 <html>
     <head>
@@ -30,4 +30,4 @@
             <h2>Allur réttur áskilinn: Alexander Máni Einarsson</h2> 
     </body>
 </html>
-```
+
