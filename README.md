@@ -1,7 +1,7 @@
 
 <html>
     <head>
-            <link rel="stylesheet" href="efnisyfirlit.css">
+            <link rel="stylesheet" href="efnisyfirlit/efnisyfirlit.css.css">
     </head>
     <body>
         <h1>Velkomin/nn á Github síðuna mína</h1>
