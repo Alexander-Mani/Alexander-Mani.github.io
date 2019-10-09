@@ -3,7 +3,7 @@
 
 
 
-<!doctype html>
+
 <html>
     <head>
             <link rel="stylesheet" href="efnisyfirlit.css">
