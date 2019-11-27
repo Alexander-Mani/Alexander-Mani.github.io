@@ -22,6 +22,9 @@
                 <a href="skilaverkefni_5/skilaverkefni_5.html">Skilaverkefni 5</a>  
             <br> 
             <br>
+                <a href="skilaverkefni_6/skilaverkefni_6.html">Skilaverkefni 6</a>  
+            <br> 
+            <br>
             <h2>Allur réttur áskilinn: Alexander Máni Einarsson</h2> 
     </body>
 </html>
