@@ -28,8 +28,6 @@
                 <a href="lokaverkefni.html/lokaverkefni.html">Lokaverkefni</a>
             <br>
             <br>
-        
-            <h2>Allur réttur áskilinn: Alexander Máni Einarsson</h2> 
-    </body>
+   </body>
 </html>
 
