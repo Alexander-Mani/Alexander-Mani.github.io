@@ -25,7 +25,7 @@
                 <a href="skilaverkefni_6/skilaverkefni_6.html">Skilaverkefni 6</a>  
             <br> 
             <br>
-                <a href="lokaverkefni.html/lokaverkefni.html">Lokaverkefni</a>
+                <a href="lokaverkefni/lokaverkefni.html">Lokaverkefni</a>
             <br>
             <br>
    </body>
