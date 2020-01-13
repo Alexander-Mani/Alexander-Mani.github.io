@@ -16,8 +16,8 @@
             <br>
         <p>Vinsamlegast athugið að þessi síða er í vinnslu og allar greinar hennar, allt á þessum síðum getur breyst</p>
             <br>
-     </body>
- </html>
+</body>
+</html>
 
 
 
