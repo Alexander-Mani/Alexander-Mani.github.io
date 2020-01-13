@@ -5,6 +5,8 @@
     </head>
     <body>
         <h1>Velkomin/nn á Github síðuna mína</h1>
+        <p>Fyrir vefsíðhönnun 103 frá haustönn 2019</p>
+        <br>
         <p>Eign Alexanders Mána</p>
             <br>
                 <a href="skilaverkefni_1/skilaverkefni_1.html">Skilaverkefni 1</a>
