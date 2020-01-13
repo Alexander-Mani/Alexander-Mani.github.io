@@ -13,8 +13,9 @@
             <br>
             <br> 
         <p>Allur réttur áskilinn til Alexanders Mána Einarsson</p>
-   </body>
-</html>
+            <br>
+     </body>
+ </html>
 
 
 
