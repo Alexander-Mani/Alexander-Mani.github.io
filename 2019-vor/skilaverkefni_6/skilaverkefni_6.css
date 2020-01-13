@@ -1,0 +1,180 @@
+.header{
+    grid-area: haus;
+    border: 1px solid black;
+    background: cornflowerblue;
+    min-height: 30px;
+}
+
+
+.navbar{
+    display: grid;
+    grid-template-columns: repeat(5,1fr );
+    grid-area: valmynd;
+    border: 1px solid black;
+    background: black;
+    align-items: center;
+    justify-items: center;
+    text-align: center;
+    padding: 20px;
+}
+.left{
+    grid-area: vinstri;
+    border: 1px solid green;
+    background: green;
+    min-height: 20em;
+}
+.main{
+    grid-area: midja;
+    border: 1px solid yellow;
+    background: yellow;
+    min-height: 20em;
+}
+.right{
+    grid-area: haegri;
+    border: 1px solid blue;
+    background: blue;
+    min-height: 20em;
+
+}
+.footer{
+    grid-area: fotur;
+    border: 1px solid red;
+    background: red;
+    
+}
+
+body{
+    display: grid;
+    grid-template-areas:
+    "haus"
+    "vinstri" 
+    "midja" 
+    "haegri"
+    "fotur"
+    "valmynd";
+    max-width: 1600px;
+    margin: auto;
+    background: lightblue;
+    font-family: fantasy;
+}
+img{
+    height: 170px;
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+@media screen and (min-width: 100px){
+    img{
+        height: 137px;
+        width: 242px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+
+
+@media screen and (min-width: 540px){
+    body{
+        display: grid;
+        grid-template-areas:
+        "haus"
+        "midja"
+        "vinstri"
+        "haegri"
+        "fotur"
+        "valmynd"
+    }
+    img{
+        height: 226px;
+        width: 400px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+@media screen and (min-width: 720px){
+    body{
+        display: grid;
+        grid-template-areas:
+        "valmynd valmynd"
+        "haus haus"
+        "haegri midja"
+        "vinstri midja"
+        "fotur fotur"
+        
+    }
+    img{
+        height: 200px;
+        width: 356px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+
+@media screen and (min-width: 960px){
+    body{
+        display: grid;
+        grid-template-areas:
+        "valmynd valmynd valmynd valmynd valmynd"
+        "haus haus haus haus haus"
+        "haegri midja midja midja vinstri"
+        "fotur fotur fotur fotur fotur"
+    }
+    img{
+        height: 170px;
+        width: 300px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+ 
+
+/*
+
+body{
+    display: grid;
+    grid-template-areas:
+    "haus haus haus haus haus"
+    "valmynd valmynd valmynd valmynd valmynd"
+    "vinstri midja midja midja haegri "
+    "fotur fotur fotur fotur fotur"; 
+
+}
+
+*/
+
+h1{
+    align-items: center;
+    justify-items: center;
+    text-align: center;
+}
+
+p{
+    text-align: justify;
+    margin: 8% 5%;
+}
+
+a{
+    text-decoration:none;
+    color: white;
+    
+    
+
+}
+a:visited{
+    color: rebeccapurple;
+        }
+a:hover{
+    color: red;
+        }
+
+a:active{
+    color: navy;

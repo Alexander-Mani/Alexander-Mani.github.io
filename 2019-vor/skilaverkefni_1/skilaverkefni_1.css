@@ -1,0 +1,88 @@
+/* Css síðan mín */
+
+/* Hlekkjarbreytingar */
+    a:visited{
+        color: green;
+            }
+
+    a:hover{
+        color: red;
+            }
+
+    a:active{
+        color: purple ;
+            }
+
+/* Texta staðsetningaskipanir */
+
+    .margin{
+        margin-left: 3%;
+        margin-top: 3%;
+            }
+
+    .tab2{
+        margin-left: 10%;
+        }
+
+    .tab1{
+        margin-left: 5%;
+    }
+
+    .left{
+        text-align: left;
+    }
+
+    .middle{
+        text-align: center;
+            }
+
+    .justify{
+        text-align: justify;
+        text-justify: auto;
+        margin-left: 5%;
+        margin-right: 5%
+            }
+
+    .font1{
+        font-family: fantasy;
+        }
+
+
+/* Litir */
+        
+    .raudur{
+        color: red;
+            }
+
+
+    .dokkraudur{
+        color: darkred;
+                }
+
+    .graenn{
+        color: green;
+            }
+
+    .blar{
+        color: blue;
+    }
+
+/* Rammi, textagerð og miðja */
+
+    .bodyedit{
+        border-style: solid;
+        border-color: blue;
+        width: 800px;
+        margin:auto;
+        font-family: Arial, Helvetica, sans-serif
+            }
+
+/* Aðskilning vefsíðu hluta */
+
+    .bottomborder{
+        height:1px;
+        width: 780px;
+        margin: auto;
+        background: gray; 
+        border-bottom:1px solid gray;
+                    }
