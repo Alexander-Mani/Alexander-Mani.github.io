@@ -4,7 +4,7 @@
     </head>
     <body>
         <h1>Velkomin/nn á Github síðuna mína</h1>
-        <p>Fyrir vefsíðhönnun 103 frá vorönn 2020</p>
+        <p>Fyrir vefsíðhönnun 203 á vorönn 2020</p>
             <br>
             <p>Eign Alexanders Mána</p>
             <br>
