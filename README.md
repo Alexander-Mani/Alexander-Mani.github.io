@@ -12,7 +12,7 @@
                 <a href="https://alexander-mani.github.io/2020-Vor/">Vefsíðhönnun 2, Vorönn 2020<a>
             <br>
             <br> 
-        <p>Aluur réttur áskilinn til Alexanders Mána Einarsson</p>
+        <p>Allur réttur áskilinn til Alexanders Mána Einarsson</p>
    </body>
 </html>
 
