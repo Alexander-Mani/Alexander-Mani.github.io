@@ -9,6 +9,10 @@
             <p>Eign Alexanders Mána</p>
             <br>
                 <a href="https://github.com/Alexander-Mani/verkefni1">Skilaverkefni 1</a>
+            <br>
+            <br>
+                <a href="index.html">Skilaverkefni 2</a>
+        
    </body>
 </html>
 
