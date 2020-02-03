@@ -11,7 +11,7 @@
                 <a href="https://github.com/Alexander-Mani/verkefni1">Skilaverkefni 1</a>
             <br>
             <br>
-                <a href="Alexander-Mani.github.io/2020-Vor/recipes/index.html">Skilaverkefni 2</a>
+                <a href="https://alexander-mani.github.io/2020-Vor/recipes/index.html">Skilaverkefni 2</a>
             <br>
             <br>
         
