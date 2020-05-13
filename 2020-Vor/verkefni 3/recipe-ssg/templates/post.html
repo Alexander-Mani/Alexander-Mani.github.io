@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <a href="..\index.html">Til baka</a>
+    <link rel="stylesheet" type="text/css" href="..\..\scss\style.css" title="Default Styles" media="screen">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>{{ post.title }}</title>
+</head>
+<body>
+  
+    
+{% extends "layout.html" %}
+{% block content %}
+
+    <h1 >{{post.title}}</h1>
+        <div class="grid_container_2">
+            <article class="grid_item_2">
+                <br>
+                <small >{{post.date}}</small>
+                <h2>{{post.content}}</h2>
+            </article>
+            <p class="grid_item_2"><img src="../{{ post.thumbnail }}"></p>
+        </div>
+    
+    
+        
+{% endblock %}
+</body>
+</html>

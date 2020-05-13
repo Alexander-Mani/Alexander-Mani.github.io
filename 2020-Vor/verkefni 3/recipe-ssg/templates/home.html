@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" type="text/css" href="..\scss\style.css" title="Default Styles" media="screen">
+    <title>My Recipes</title>
+</head>
+<body>
+
+        {% extends "layout.html" %}
+
+        {% block content %}
+        
+        <h1>My Recipes</h1>
+        
+        <div class="grid_container">
+        
+        {% for post in posts %}
+        
+            <div>
+        
+                <article class="grid_item">
+                    <header>
+                        <img src="{{ post.thumbnail }}">
+                    </header>
+                    <footer>
+                        <h2>{{ post.title }}</h2>
+                        <p>{{ post.summary}}</p>
+                        <small class="numbers">{{ post.date }}</small>
+                        <br>
+                        <a class="button" href="posts/{{ post.slug }}.html">Recipe</a>
+                        <br>
+                        {% set list_of_tags = post.tags.split(",") %}
+                        {% for tag in list_of_tags %}
+                        <button class="button_2">{{ tag }}</button>
+                        {% endfor %}
+                    </footer>
+                    
+                </article>
+        
+            </div>
+        
+        {% endfor %}
+        
+        </div>
+
+{% endblock %}
+</body>
+</html>
