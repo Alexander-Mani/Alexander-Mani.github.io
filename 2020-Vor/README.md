@@ -14,13 +14,13 @@
                 <a href="https://alexander-mani.github.io/2020-Vor/recipes/index.html">Skilaverkefni 2</a>
             <br>
             <br>
-               <a href"https://alexander-mani.github.io/2020-Vor/verkefni%203/recipes/index.html>Skilaverkefni 3</a>
+               <a href"https://alexander-mani.github.io/2020-Vor/verkefni%203/recipes/index.html">Skilaverkefni 3</a>
             <br>
             <br>
                <a href"https://alexander-mani.github.io/2020-Vor/verkefni4/recipes/forsida.html">Skilaverkefni 4</a>
             <br>
             <br>
-               <a href"https://alexander-mani.github.io/2020-Vor/verkefni5/recipes/forsida.html>Skilaverkefni 5</a>
+               <a href"https://alexander-mani.github.io/2020-Vor/verkefni5/recipes/forsida.html">Skilaverkefni 5</a>
         
    </body>
 </html>
