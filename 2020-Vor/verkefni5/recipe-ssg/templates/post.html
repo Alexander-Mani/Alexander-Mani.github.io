@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+
+<html lang="is">
+<head>
+    <link rel="stylesheet" type="text/css" href="..\..\scss\style.css" title="Default Styles" media="screen">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>{{ post.title }}</title>
+</head>
+<body>
+  
+    
+{% extends "layout.html" %}
+{% block content %}
+<header>
+        <nav class="navbar">
+            <a class="button_3" href="../forsida.html"><img class="mynd_adal" src="../../recipes/img/braud.svg"></a>
+            <a class="button_3" href="../index.html"><span class="icon-Bread"> </span></a>
+            <a class="button_3" href="../index.html"><span class="icon-Meat"> </span></a>
+            <a class="button_3" href="../index.html"><span class="icon-Vegan"> </span></a>
+            <a class="button_3" href="../index.html"><span class="icon-Drink"> </span></a>
+        </nav>
+    </header>
+    <div class="social">
+            <a class="button_4" href="https://www.facebook.com/"><span class="icon-facebook"> </span></a><br>
+            <a class="button_4" href="https://www.instagram.com/"><span class="icon-instagram">  </span></a><br>
+            <a class="button_4" href="https://twitter.com/explore"><span class="icon-twitter">  </span></a><br>
+            <a class="button_4" href="https://www.google.com/"><span class="icon-google">  </span></a>
+    </div>   
+    
+    
+    <div class="grid_container_2">
+            <h1 >{{post.title}}</h1>
+        <article class="grid_item_2">
+            <br>
+            <small >{{post.date}}</small>
+            <h2>{{post.content}}</h2>
+        </article>
+        <p class="grid_item_2 mynd_adal"><img src="../{{ post.thumbnail }}"></p>
+    </div>
+    
+    
+        
+{% endblock %}
+</body>
+</html>
