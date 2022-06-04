@@ -12,6 +12,9 @@
                 <a href="https://alexander-mani.github.io/2020-Vor/">Vefsíðhönnun 2, Vorönn 2020<a>
             <br>
             <br> 
+                <a href="https://alexander-mani.github.io/py_project/">Python Verkefni<a>
+            <br>
+            <br> 
         <p>Allur réttur áskilinn til Alexanders Mána Einarsson</p>
             <br>
         <p>Vinsamlegast athugið að þessi síða er í vinnslu og allar greinar hennar, allt á þessum síðum getur breyst</p>
