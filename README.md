@@ -12,7 +12,7 @@
                 <a href="https://alexander-mani.github.io/2020-Vor/">Vefsíðhönnun 2, Vorönn 2020<a>
             <br>
             <br> 
-                <a href="https://alexander-mani.github.io/py_projects/">Python Verkefni<a>
+                <a href=https://github.com/Alexander-Mani/Alexander-Mani.github.io/tree/master/py_projects>Python Verkefni<a>
             <br>
             <br> 
         <p>Allur réttur áskilinn til Alexanders Mána Einarsson</p>
